@@ -1,0 +1,8 @@
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_6\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Release\ResolveAssemblyReference.cache
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_6\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Release\ResGen.read.1.tlog
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_6\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Release\ResGen.write.1.tlog
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_6\C_Sharp_Form_Modern_Hesap_Makinesi\bin\Release\Modern_Hesap_Makinesi.exe
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_6\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Release\Modern_Hesap_Makinesi.Modern_Hesap_Makinesi.resources
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_6\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Release\Modern_Hesap_Makinesi.Properties.Resources.resources
+D:\FK PROGRAM\C#\GENEL\C_SHARP_FRAMEWORK\_C_SHARP_FORM\Form_Part_6\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Release\Modern_Hesap_Makinesi.exe
+C:\Users\hasan\Downloads\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Release\Modern_Hesap_Makinesi.exe

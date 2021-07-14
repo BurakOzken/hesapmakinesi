@@ -1,0 +1,16 @@
+C:\Users\hasan\Downloads\C_Sharp_Form_Modern_Hesap_Makinesi\bin\Debug\Modern_Hesap_Makinesi.exe
+C:\Users\hasan\Downloads\C_Sharp_Form_Modern_Hesap_Makinesi\bin\Debug\Modern_Hesap_Makinesi.pdb
+C:\Users\hasan\Downloads\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Debug\Modern_Hesap_Makinesi.Modern_Hesap_Makinesi.resources
+C:\Users\hasan\Downloads\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Debug\Modern_Hesap_Makinesi.Properties.Resources.resources
+C:\Users\hasan\Downloads\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Debug\Hesap_Makinesi_Modern.csproj.GenerateResource.Cache
+C:\Users\hasan\Downloads\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Debug\Modern_Hesap_Makinesi.exe
+C:\Users\hasan\Downloads\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Debug\Modern_Hesap_Makinesi.pdb
+C:\Users\hasan\Downloads\C_Sharp_Form_Modern_Hesap_Makinesi\obj\Debug\Hesap_Makinesi_Modern.csprojResolveAssemblyReference.cache
+C:\Users\112\Desktop\201913709074-burak-özken\Bilimsel_Hesap_Makinesi\bin\Debug\Modern_Hesap_Makinesi.exe
+C:\Users\112\Desktop\201913709074-burak-özken\Bilimsel_Hesap_Makinesi\bin\Debug\Modern_Hesap_Makinesi.pdb
+C:\Users\112\Desktop\201913709074-burak-özken\Bilimsel_Hesap_Makinesi\obj\Debug\Hesap_Makinesi_Modern.csprojAssemblyReference.cache
+C:\Users\112\Desktop\201913709074-burak-özken\Bilimsel_Hesap_Makinesi\obj\Debug\Modern_Hesap_Makinesi.Modern_Hesap_Makinesi.resources
+C:\Users\112\Desktop\201913709074-burak-özken\Bilimsel_Hesap_Makinesi\obj\Debug\Modern_Hesap_Makinesi.Properties.Resources.resources
+C:\Users\112\Desktop\201913709074-burak-özken\Bilimsel_Hesap_Makinesi\obj\Debug\Hesap_Makinesi_Modern.csproj.GenerateResource.cache
+C:\Users\112\Desktop\201913709074-burak-özken\Bilimsel_Hesap_Makinesi\obj\Debug\Modern_Hesap_Makinesi.exe
+C:\Users\112\Desktop\201913709074-burak-özken\Bilimsel_Hesap_Makinesi\obj\Debug\Modern_Hesap_Makinesi.pdb
